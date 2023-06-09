@@ -8,7 +8,7 @@
 
 // // Task:2
 // var gender = prompt('Enter gender: ');
-// var result = city.toLocaleLowerCase();
+// var result = gender.toLocaleLowerCase();
 // if (result=="male"){
 //     alert("Good Morning Sir")
 // }
