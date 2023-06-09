@@ -14,4 +14,4 @@ alert("Happy coding")
 // Task:5
 alert("Hello... I can run JS through my web browser's console ")
 
-// Task:6
+
